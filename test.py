@@ -10,6 +10,9 @@ print("hello2")
 
 print("the multiplication is  : ", num1*num2)
 print("hello3")
-print("the division is  : ", num1/num2)
+print("the division is  : ", num1/num2) 
 
 print("machine learning")
+
+
+print("ai learning")
