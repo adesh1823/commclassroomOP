@@ -20,3 +20,4 @@ print("ai learning")
 print("plus , minus , multiplication and division")
 
 print("printing for master ")
+print("printing for regular ::")
