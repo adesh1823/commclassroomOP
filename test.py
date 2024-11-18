@@ -13,3 +13,5 @@ print("hello3")
 print("the division is  : ", num1/num2)
 
 print("machine learning")
+
+print("plus , minus , division and multiplication")
